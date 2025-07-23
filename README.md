@@ -14,7 +14,6 @@ Selamat datang di proyek simulasi Tata Surya 3D! Jelajahi keindahan kosmos langs
 ## 📋 Daftar Isi
 
 * [Fitur Unggulan](#-fitur-unggulan)
-* [Galeri](#-galeri)
 * [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
 * [Instalasi & Kompilasi](#-instalasi--kompilasi)
 * [Kontrol Aplikasi](#-kontrol-aplikasi)
@@ -40,14 +39,6 @@ Proyek ini tidak hanya menampilkan planet yang berputar, tetapi juga dilengkapi 
 
 * **🕹️ Interaktivitas Penuh**
     * Kontrol kamera, kecepatan simulasi, dan elemen visual lainnya ada di tangan Anda. Lihat detailnya di [bagian kontrol](#-kontrol-aplikasi).
-
----
-
-## 🖼️ Galeri
-
-| Tampilan Penuh Tata Surya | Detail Cincin Saturnus | Bumi & Bulan |
-| :-----------------------: | :----------------------: | :----------: |
-| *(Letakkan Screenshot 1 di sini)* | *(Letakkan Screenshot 2 di sini)* | *(Letakkan Screenshot 3 di sini)* |
 
 ---
 
