@@ -7,8 +7,6 @@
 
 Selamat datang di proyek simulasi Tata Surya 3D! Jelajahi keindahan kosmos langsung dari komputer Anda. Proyek ini adalah sebuah visualisasi sistem tata surya yang dibangun dengan **C++** dan **OpenGL**, menampilkan Matahari, planet-planet, dan Bulan dalam sebuah tarian orbit yang dinamis dan interaktif.
 
-![Solar System GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RzOHBkaWJmMGE3aWFheXp0bXN2eHBoMnNqcXJjY3Zpb3h1aDYwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif)
-
 ---
 
 ## 📋 Daftar Isi
